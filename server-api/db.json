@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "3830180e-d4b1-40fb-af02-4723cbc5d2da",
+      "name": "praneethmarem",
+      "email": "praneethmarem@gmail.com"
+    },
+    {
+      "id": "6d4b5055-5dfb-4c35-b747-85ffaaa529db",
+      "name": "akashgowda",
+      "email": "akashgowda@gmail.com"
+    },
+    {
+      "id": "4dcc4604-0abb-4fbf-95ea-305e6c9b6953",
+      "name": "mike",
+      "email": "mike@outlook.com"
+    }
+  ]
+}
